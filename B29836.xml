@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir, Not having an opportunity to end my discourse with you about settling of guineas, I am bold thus to give you my thoughts thereon, and that very briefly, not too much to interrupt your other affairs.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29836</idno><idno type="EEBO-CITATION">99884512</idno>
+  <idno type="VID">185352</idno>
+  <idno type="EEBO-PROQUEST">2240885243</idno>
+  
+            <idno type="STC">Wing S3885</idno>
+            <idno type="STC">Wing G2225</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.10[29]</idno>
+            <idno type="STC">ESTC R215630</idno>
+            <idno type="PROQUEST">ocm99884512</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884512e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29836)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185352)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:2[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir, Not having an opportunity to end my discourse with you about settling of guineas, I am bold thus to give you my thoughts thereon, and that very briefly, not too much to interrupt your other affairs.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Dated at foot: March 20th, 1695/6.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Money --  England --  Early works to 1800.</term>
+               <term type="topical_term">Coinage --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185352:1"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <argument>
+               <p>
+                  <hi>Not having an Opportunity to end my Discourse with you about Settling of</hi> Guineas, <hi>I am bold thus to give you my Thoughts thereon, and that very briefly, not too much to interrupt your other Affairs.</hi>
+               </p>
+            </argument>
+            <p>FOR above Twenty Years past <hi>Guineas</hi> have been commonly Received and Paid at <hi>21s. 6d.</hi> a small matter more or less, till of late, and within a Year last past, by the Evil Designs of the Enemies to the Kingdom, and for Private Interest, the Silver Moneys were Clipt above One Third Part less, and the Gold raised above One Third Part more in value, than what it was Coyned for, which hath notoriously brought the present Inconveniency upon us, in respect to our Coyn.</p>
+            <p>Therefore I humbly conceive it absolutely Necessary, and not beyond the Wisdom and Power of the Nation, speedily to remedy this Evil; which, with Submission, I am apt to believe is easily done, by settling <hi>Guineas</hi> at <hi>21s. 6d.</hi> without any such dangerous Consequences as by some are Objected. As,
+<list>
+                  <item>1. <hi>The People will not bear it.</hi>
+                  </item>
+                  <item>2. <hi>It will be all Carried away.</hi> And,</item>
+                  <item>3. <hi>Not lent to the King.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>For my Opinion, I offer the following Reasons, and Answer to those Three Objections.</p>
+            <p n="1">1. And say, <hi>The People will bear it.</hi> If <hi>Guineas</hi> are settled by Act of Parliament at <hi>21s. 6d.</hi> for Currant and Lawful Money of <hi>England,</hi> with a Liberty for the King or Subject voluntarily to accept or receive them in Payment, or Purchase them with Silver, at any Price not exceeding <hi>22s.</hi> upon severe Penalties, it will be so near the Intrinsick and Proportionable Value of our Broad Silver and Mill'd Money, that it will immediately restore to us the use of all our Gold and good Silver Coyn in the Nation; which in a great mea<g ref="char:EOLhyphen"/>sure will supply the Occasions of the King, and satisfie the People: And till they are settled, some keep up the Gold, and others the Silver Unclipp'd and Mill'd Money, and so leave no Money at all to supply the Necessities of the Poor. I have heard the Pretences on all sides, and conclude, That not One Man of a Thousand will be any considerable sufferer in this matter throughout the Kingdom. There may be Five Hundred or One Thousand Men that have above Five Hundred or One Thousand <hi>Guineas</hi> each; which are the Men that may or will make most noise against it, and endeavour to keep them up to <hi>26s.</hi> or higher: And many of them may have gotten as much by the Rise, as they will lose by the Fall; and the Fall cannot Undoe them: They are best able to bear it. I most pity the Midling sort of People, <hi>Tradesmen, Farmers, Tenants, &amp;c.</hi> both in City and Country: But for them in our present Exigency, and in this General Calamity, which is like a Fire in a City or Town, which affects not but where it falls; I can see no better Remedy than to prevent the farther Increase of it. The General Cry of the Poor and Midling People, is for to have <hi>Guineas</hi> settled at any Rate: And it is better for every Man to bear his present Loss, than to be Undone for want of Trade, which is like to come to a full stop. And therefore I conclude, <hi>The People will bear it.</hi>
+            </p>
+            <p n="2">2. <hi>It will not be all Carried away.</hi> For the <hi>Dutch,</hi> or <hi>Jewes</hi> in <hi>Holland,</hi> cannot make a better Interest of their Money, nor on better Security than they can here: For there they have usually Moneys at 3 or 4 <hi>per Cent.</hi> and here they receive 6, 7 or 8, it may be more. And though its commonly said, That <hi>Guineas</hi> are more worth there than here; They have never yet been so, nor indeed can they be, unless <hi>Holland</hi> will Clip and Debase their Silver Coyns as we have done, and so start their Gold as we have done. But many take these things in a wrong Nation▪ for Gold and Silver are of the same Value in <hi>England;</hi> as in <hi>Holland,</hi> or any other part of the World, even in <hi>Mexico</hi> and <hi>Peru.</hi> A Pound or Piece of Gold or Silver Coyn, can be worth no more (the Charge of Coynage excepted) than the Gold or Silver that is in it▪ Therefore that's no Inducement <hi>to Carry it away.</hi>
+            </p>
+            <p n="3">3. <hi>It will be Lent to the King.</hi> (And be better for His Majesty and the Nation by a Fifth Part of all the Supplies given Him, and they will go a Fifth Part farther than at <hi>26s.</hi>) For during the Wars, People will not be forward to Trade with it: Nor will they be so angry at the Fall of <hi>Guineas,</hi> (because they cannot pay them at <hi>26s.</hi>) as to make no use of them And as long as there are good Funds, they will not keep their Money in a Chest, and make nothing of it. But if they are not content with 6, 7 or 8, <hi>per Cent.</hi> Interest, all Con<g ref="char:EOLhyphen"/>sidering Men will grant, I hat in case of Necessity, it's better for the King, or Government, to allow 10 or or 12 <hi>per Cent.</hi> Interest, or to allow 3 or 4 <hi>per Cent.</hi> for an Inducement, rather than to take <hi>Guineas</hi> at <hi>26s.</hi> which is full 20 <hi>per Cent.</hi> above their Real Worth, or Intrinsick Value, besides the Interest. And therefore I conclude, <hi>It will be Lent to the King.</hi>
+            </p>
+            <p>I shall only add, That if <hi>Guineas</hi> be settled, in their Proportional Value to our Silver, which is at <hi>21s. 6d.</hi> as aforesaid, the Country will not want so much New Money to Change their Clipt. And if they be not so settled, or some other Methods taken, the Clipt Money cannot be taken in in time. I am also of Opinion, That if the Gold were so settled, we should need no other Mints to be Erected in <hi>England;</hi> And the Coyning of Gold might be incouraged, if not <hi>Guineas,</hi> Pieces of 15 or <hi>30s.</hi> But I am loath to trouble you by Prolixity, therefore conclude and remain,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <dateline>
+                  <date>March 20th, 1695/6.</date>
+               </dateline>
+            </closer>
+            <trailer>
+               <pb facs="tcp:185352:2"/>
+               <hi>GUINEAS</hi> at <hi>21s. 6d.</hi> will make Money Plenty: The Peo<g ref="char:EOLhyphen"/>ple will bear it: Not Carry it to <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> but Lend it to the KING.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
